@@ -1,5 +1,5 @@
 - 👋 Hello everyone , myself Abhishek Gautam.
-- 👀 I’m interested in Computer programming and security.
+- 👀 I’m interested in Computer programming.
 - 🌱 I’m currently learning Web Development
 
 <!---
