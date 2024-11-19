@@ -1,6 +1,6 @@
-- 👋 Hello everyone , myself Abhishek Gautam.
+- 👋 Hello everyone ,I am Abhishek Gautam.
 - 👀 I’m interested in Computer programming.
-- 🌱 I’m currently learning Web Development
+- 🌱 exploring
 
 <!---
 gautamabhish/gautamabhish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
