@@ -45,7 +45,10 @@ Welcome to my GitHub profile! I'm Abhishek, a passionate developer with a keen i
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gautamabhish)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamabhish)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gautamabhish)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gautamabhish)]
+![Leetcode Profile Stats](https://greenj-readme-stats.onrender.com/leetcode/stats/uUTmPQg4t3)[Visit LC](https://leetcode.com/u/uUTmPQg4t3)
+
+
 
 ## Contact Me 📨
 
